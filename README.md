@@ -7,7 +7,7 @@
 ## 🖼️ Dashboard Preview
 
 **Accrued Overview**
-screenshots/01_accured_overview.png
+[screenshots/01_accured_overview.png](https://github.com/jyoti-pathania/Project-management-dashboard-BI/blob/86603d085ccb252c889fda29538c672a09141992/screenshots/01_accured_overview.png)
 
 **Yearly Overview**
 screenshots/02_yearly_overview.png
