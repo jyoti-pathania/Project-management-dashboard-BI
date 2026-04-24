@@ -7,13 +7,13 @@
 ## 🖼️ Dashboard Preview
 
 **Accrued Overview**
-![Accrued Overview](01_accrued_overview.png)
+screenshots/01_accured_overview.png
 
 **Yearly Overview**
-![Yearly Overview](02_yearly_overview.png)
+screenshots/02_yearly_overview.png
 
 **2026 Forecast vs Achievement**
-![Forecast vs Achievement](03_forecast_vs_achievement.png)
+screenshots/03_yearly_overview.png
 
 ---
 
