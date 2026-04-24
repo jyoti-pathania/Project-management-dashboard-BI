@@ -87,7 +87,7 @@ The dashboard provides senior stakeholders with a single source of truth for rev
 
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
 2. Clone or download this repository
-3. Open  https://github.com/jyoti-pathania/Project-management-dashboard-BI/blob/1419f18d469f345e9749222c60796e1b8c2bee79/Project%20management.pbixin Power BI Desktop
+3. Open TellTelecom_ProjectDashboard.pbix in Power BI Desktop
 4. The dashboard will load with the existing data model
 
 ---
