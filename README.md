@@ -74,13 +74,10 @@ This dashboard solves those issues by:
 
 | # | Tab | Purpose |
 |---|---|---|
-| 1 | 💳 **Accrued Overview** | Cash flow visibility, accrued vs realised revenue |
-| 2 | 🧑‍💼 **Client Performance** | Client-level trends and MoM comparison |
-| 3 | 📅 **Yearly Overview** | YoY performance and forecast gap |
-| 4 | 📆 **Monthly Performance** | Monthly trends and profit tracking |
-| 5 | 📈 **Revenue Trends** | Long-term growth (2020–2026) |
-| 6 | 📋 **Report View** | Detailed financial breakdown |
-| 7 | 🎯 **Forecast vs Achievement** | 2026 tracking and risk monitoring |
+| 1 | 💳 **Yearly Overview** | Cash flow visibility, accrued vs realised revenue |
+| 2 | 📆 **Monthly Performance** | Monthly trends and profit tracking |
+| 3 | 🧑‍💼 **Client Performance** | Client-level trends and MoM comparison |
+| 4 | 🎯 **Forecast vs Achievement** | 2026 tracking and risk monitoring |
 
 ---
 
