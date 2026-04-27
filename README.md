@@ -15,7 +15,7 @@
 
 ## 📌 Project Overview
 
-An interactive, **multi-page Power BI dashboard** designed to give leadership a single source of truth for project performance across financial and operational metrics — covering a **3-year period (2024–2026)**.
+An interactive, **multi-page Power BI dashboard** designed to give leadership a single source of truth for project performance across financial and operational metrics - covering a **3-year period (2024–2026)**.
 
 It helps stakeholders track:
 
@@ -52,7 +52,7 @@ This dashboard solves those issues by:
 | Metric | Value |
 |---|---|
 | 💷 Total Revenue | £3.1M across 10 clients |
-| 🔮 2026 Forecast Progress | Only **11%** of £16M target — ⚠️ early warning |
+| 🔮 2026 Forecast Progress | Only **11%** of £16M target - ⚠️ early warning |
 | ⚡ Total Profit |**£1.7** |
 | 🚨 Outstanding | **£1.4** |
 
