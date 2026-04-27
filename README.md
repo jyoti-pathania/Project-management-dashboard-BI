@@ -102,7 +102,7 @@ This dashboard solves those issues by:
 
 ## 👤 About
 
-> This project demonstrates **end-to-end analytics work** — from data preparation to insights and reporting.
+> This project demonstrates **end-to-end analytics work** - from data preparation to insights and reporting.
 >
 > 🎯 *The goal is simple: help management move from reporting numbers to making better decisions.*
 
