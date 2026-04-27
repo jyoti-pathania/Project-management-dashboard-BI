@@ -7,7 +7,7 @@
 ## 🖼️ Dashboard Preview
 
 **Accrued Overview**
-[screenshots/01_accured_overview.png](https://github.com/jyoti-pathania/Project-management-dashboard-BI/blob/86603d085ccb252c889fda29538c672a09141992/screenshots/01_Yearly_Overview.png)
+https://github.com/jyoti-pathania/Project-management-dashboard-BI/blob/f42370b8b9e9cd941dc7c71a56e7af9afd9482cc/screenshots/01_Yearly_Overview.png
 
 **Yearly Overview**
 [screenshots/02_yearly_overview.png](https://github.com/jyoti-pathania/Project-management-dashboard-BI/blob/4b1e4bea23ea7e16ac21ccfb1a2721c75d5752f5/screenshots/02_Monthly_trend.png)
