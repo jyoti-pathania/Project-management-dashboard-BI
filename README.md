@@ -10,10 +10,10 @@
 https://github.com/jyoti-pathania/Project-management-dashboard-BI/blob/f42370b8b9e9cd941dc7c71a56e7af9afd9482cc/screenshots/01_Yearly_Overview.png
 
 **Yearly Overview**
-[screenshots/02_yearly_overview.png](https://github.com/jyoti-pathania/Project-management-dashboard-BI/blob/4b1e4bea23ea7e16ac21ccfb1a2721c75d5752f5/screenshots/02_Monthly_trend.png)
+https://github.com/jyoti-pathania/Project-management-dashboard-BI/blob/856325c398394a26309e0c4f6e5693dd3cef9216/screenshots/02_Monthly_trend.png
 
 **2026 Forecast vs Achievement**
-[screenshots/03_yearly_overview.png](https://github.com/jyoti-pathania/Project-management-dashboard-BI/blob/4b1e4bea23ea7e16ac21ccfb1a2721c75d5752f5/screenshots/03_Forecast_vs_Sales.png)
+https://github.com/jyoti-pathania/Project-management-dashboard-BI/blob/856325c398394a26309e0c4f6e5693dd3cef9216/screenshots/04_Forcast_vs_Sales.png
 
 ---
 
