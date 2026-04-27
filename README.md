@@ -7,13 +7,13 @@
 ## 🖼️ Dashboard Preview
 
 **Accrued Overview**
-[screenshots/01_accured_overview.png](https://github.com/jyoti-pathania/Project-management-dashboard-BI/blob/86603d085ccb252c889fda29538c672a09141992/screenshots/01_accured_overview.png)
+[screenshots/01_accured_overview.png](https://github.com/jyoti-pathania/Project-management-dashboard-BI/blob/86603d085ccb252c889fda29538c672a09141992/screenshots/01_Yearly_Overview.png)
 
 **Yearly Overview**
-[screenshots/02_yearly_overview.png](https://github.com/jyoti-pathania/Project-management-dashboard-BI/blob/4b1e4bea23ea7e16ac21ccfb1a2721c75d5752f5/screenshots/02_yearly_overview.png)
+[screenshots/02_yearly_overview.png](https://github.com/jyoti-pathania/Project-management-dashboard-BI/blob/4b1e4bea23ea7e16ac21ccfb1a2721c75d5752f5/screenshots/02_Monthly_trend.png)
 
 **2026 Forecast vs Achievement**
-[screenshots/03_yearly_overview.png](https://github.com/jyoti-pathania/Project-management-dashboard-BI/blob/4b1e4bea23ea7e16ac21ccfb1a2721c75d5752f5/screenshots/03_forecast_vs_achievement.png)
+[screenshots/03_yearly_overview.png](https://github.com/jyoti-pathania/Project-management-dashboard-BI/blob/4b1e4bea23ea7e16ac21ccfb1a2721c75d5752f5/screenshots/03_Forecast_vs_Sales.png)
 
 ---
 
