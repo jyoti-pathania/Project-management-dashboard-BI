@@ -20,7 +20,7 @@ An interactive, **multi-page Power BI dashboard** designed to give leadership a 
 It helps stakeholders track:
 
 - 💰 Revenue, cost, and profitability
-- 📥 Accrued vs collected income
+- 📥 Monthly performace
 - 🧑‍💼 Client-level performance and risk
 - 🎯 Forecast accuracy and gaps
 
@@ -44,27 +44,23 @@ This dashboard solves those issues by:
 - 🗂️ Bringing all key financial metrics into **one place**
 - 🚨 Highlighting **underperformance vs forecast** in real time
 - 📉 Identifying **high-risk clients** through trend analysis
-- 💳 Tracking **accrued (uncollected) revenue** for better cash flow decisions
-- 🔎 Allowing **drill-down** from summary to detailed views
-
+  
 ---
 
 ## 💡 Key Insights
 
 | Metric | Value |
 |---|---|
-| 💷 Total Revenue | £10.50M across 7 clients |
-| 📊 Profit Margin | 21% |
+| 💷 Total Revenue | £3.1M across 10 clients |
 | 🔮 2026 Forecast Progress | Only **11%** of £16M target — ⚠️ early warning |
-| 💳 Accrued Revenue | £3.04M — collection opportunity |
-| ⚡ Efficiency Ratio | £1 spend → **£1.26 revenue** |
-| ✅ Collection Rate | **95%** — with timing gaps |
+| ⚡ Total Profit |**£1.7** |
+| 🚨 Outstanding | **£1.4** |
 
 ### 📊 Client Volatility
 | Client | Trend | Signal |
 |---|---|---|
-| Client 1 | 📈 +132% growth | 🟢 Opportunity |
-| Client 6 | 📉 −77% drop | 🔴 Risk |
+| Client 3 | 📈 +130% growth | 🟢 Opportunity |
+| Client 1 | 📉 −77% drop | 🔴 Risk |
 
 > Revenue has been **consistently below forecast** across 2024–2026 trend.
 
